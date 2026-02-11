@@ -1,2 +1,24 @@
 # PD110---Intelligent-Mobile-Travel-Guide-Flutter-App
 IMEDIA Vendor repository
+1. Project Overview
+
+This repository contains the vendor-side artefacts for the Intelligent Mobile Travel Guide System (IMTGS) project.
+It documents the requirements analysis (BCIC) conducted on the client’s Project Specification (PS), and the progression of refined requirements into the Software Requirements Specification (SRS).
+
+This repo is used by the vendor team to:
+
+Perform Analysing on the PS using BCIC (Breakdown, Clarify, Interpret, Categorize)
+
+Track clarified and revised requirements
+
+Maintain traceability from PS → Analysed Requirements → SRS
+
+Support validation and handover to design and implementation phases
+
+2. Repository Structure
+/docs
+  /ps-review           # Breakdown findings, IRC, CRaM analysis
+  /analysing           # BCIC (Breakdown, Clarify, Interpret, Categorize)
+  /srs                 # Final Software Requirements Specification
+/models                # Use case, context, diagrams
+/meetings              # Clarify meeting notes with stakeholders

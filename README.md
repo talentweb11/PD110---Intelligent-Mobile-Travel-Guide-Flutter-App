@@ -16,6 +16,8 @@ Maintain traceability from PS → Analysed Requirements → SRS
 Support validation and handover to design and implementation phases
 
 2. Repository Structure
+
+
 /docs
 /docs/ps-review        # Breakdown findings, IRC, CRaM analysis  
 /docs/analysing        # BCIC (Breakdown, Clarify, Interpret, Categorize)  

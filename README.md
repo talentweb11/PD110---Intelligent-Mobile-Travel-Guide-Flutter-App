@@ -17,9 +17,9 @@ Support validation and handover to design and implementation phases
 
 2. Repository Structure
 /docs
-  /docs/ps-review        # Breakdown findings, IRC, CRaM analysis  
-  /docs/analysing        # BCIC (Breakdown, Clarify, Interpret, Categorize)  
-  /docs/srs              # Final Software Requirements Specification  
+/docs/ps-review        # Breakdown findings, IRC, CRaM analysis  
+/docs/analysing        # BCIC (Breakdown, Clarify, Interpret, Categorize)  
+/docs/srs              # Final Software Requirements Specification  
 /models                # Use case, context, diagrams  
 /meetings              # Clarify meeting notes with stakeholders  
 

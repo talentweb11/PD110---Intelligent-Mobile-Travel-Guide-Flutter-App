@@ -26,6 +26,7 @@ Support validation and handover to the design and implementation phases
 <p align="left">
   <img src="Misc/File Directory.png" width="900"/>
 </p>
+
 ## 3. Artefacts
 - Project Specification
 - Analysis Report
@@ -37,10 +38,10 @@ Support validation and handover to the design and implementation phases
   - Repository
   - Account Manager
   - Risk Analysis
-  - Requirements modelling
-  
+  - Requirements Modelling
+
 <p align="center">
-  ## © 2026 IMedia 
+  © 2026 IMedia 
 </p>
 
 

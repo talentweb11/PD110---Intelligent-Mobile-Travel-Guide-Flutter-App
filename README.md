@@ -13,17 +13,37 @@ It documents the requirements analysis (BCIC) conducted on the client’s Projec
 
 This repo is used by the vendor team to:
 
-Perform Analysing on the PS using BCIC (Breakdown, Clarify, Interpret, Categorize)
+Perform analysis on the PS using BCIC (Breakdown, Clarify, Interpret, Categorize)
 
 Track clarified and revised requirements
 
 Maintain traceability from PS → Analysed Requirements → SRS
 
-Support validation and handover to design and implementation phases
+Support validation and handover to the design and implementation phases
 
 2. Repository Structure
 
 <p align="left">
   <img src="Misc/File Directory.png" width="900"/>
 </p>
+
+3. Artefacts
+- Project Specification
+- Analysis Report
+  - IRC
+  - Breakdown
+  - Clarify
+  - Interpret
+  - Categorize
+  - Repository
+  - Account Manager
+  - Risk Analysis
+  - Requirements modeling
+  
+
+
+<p align="center">
+  © 2026 IMedia 
+</p>
+
 

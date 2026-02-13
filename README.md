@@ -3,8 +3,8 @@
 </p>
 
 # ---Intelligent-Mobile-Travel-Guide-Flutter-App---
-Vendor: IMedia
-Customer: TravelMate
+### Vendor: IMedia
+### Customer: TravelMate
 
 ## 1. Project Overview
 
